@@ -10,7 +10,7 @@ class Tldt < Formula
 
   bottle :unneeded
   
-  depends_on "python"
+  # depends_on "python"
 
   def install
     bin.install "tldt.py" => "tldt"
