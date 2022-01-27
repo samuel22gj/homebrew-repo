@@ -8,8 +8,6 @@ class Tldt < Formula
   license "Apache-2.0"
   head "https://github.com/samuel22gj/TLDT.git"
 
-  bottle :unneeded
-  
   # depends_on "python"
 
   def install
